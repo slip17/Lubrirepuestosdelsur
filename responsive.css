@@ -1,0 +1,276 @@
+body {
+    font-family: 'Russo One', sans-serif;
+    font-size: 15px;
+    line-height:1.5;
+    padding:0;
+    margin:0;
+    background-color:#f4f4f4;
+    
+}
+
+/*globa*/
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+header ul{
+    margin:0px;
+    padding:0px;
+}
+.button_1 {
+    height:38px;
+    background:#be1622;
+    border:none;
+    padding:0 20px 0 20px;
+    font-weight:bolder;
+    color:#ffffff;
+    
+}
+
+.dark {
+    padding: 15px;
+    background: #35424a;
+    color: #ffffff;
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+
+/*header*/
+
+header {
+    background-color: #35424a;
+    color: #ffffff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    min-height: 70px;
+    border-bottom:#be1622 3px solid;
+      
+}
+
+header a{
+    color:#ffffff;
+    text-decoration: none;
+    text-transform:uppercase;
+    font-size:18px;
+}
+
+
+header li{
+    float: left;
+    display: inline;
+    padding: 0 20px 0 20px;
+}
+
+header #branding {
+    float:left;
+}
+
+header #branding img{
+    width: 230px;
+    height: 82px;
+    
+}
+header nav{
+    float: right;
+    margin-top: 35px;
+}
+
+header .highlight, header .current a{
+    color: #be1622;
+    font-weight: bold;    
+}
+
+header a:hover {
+    color: #cccccc;
+    font-weight:bold;   
+    
+}
+
+
+/*showcase*/
+
+#showcase {
+    min-height: 400px;
+    background: url(../imgs/truckroad38%25opb.jpeg) no-repeat 0 -300px;
+    text-align: center;
+    color:black;
+}
+
+#showcase h1 {
+    margin-top: 100px;
+    font-size: 55px;
+    margin-bottom: 10px;
+    color: #be1622;
+    font-weight: lighter;
+}
+
+#showcase p{
+    font-size: 25px;
+}
+
+/*newsletter*/
+
+#newsletter {
+    padding: 15px;
+    color: #ffffff;
+    background: #35424a;
+    
+}
+
+#newsletter h1{
+    float:left;
+    font-weight: lighter;
+}
+
+#newsletter form{
+    float:right;
+    margin-top:15px;
+}
+
+#newsletter input[type="email"]{
+    padding: 4px;
+    height:25px;
+    width:250px;    
+}
+
+
+/*boxes */
+
+#boxes{
+    margin:20px 0px 0px 0px;    
+}
+
+#boxes .box{
+    float:left;
+    width: 30%;
+    padding: 10px;
+    text-align: center;
+}
+
+#boxes .box img{
+    width: 150px;
+}
+
+/*sidebar*/
+
+aside#sidebar{
+    float: right;
+    width: 30%;
+    margin-top: 10px;
+}
+
+aside#sidebar .quote input, aside#sidebar .quote textarea{
+    
+    width: 90%;
+    padding: 5px;
+}
+
+/*main-col*/
+
+article#main-col{
+    
+    float: left;
+    width:65%;
+    
+    ]
+}
+
+/*services*/
+
+ul#services li{
+    list-style: none;
+    padding: 20px;
+    border: #cccccc solid 1px;
+    margin-bottom: 5px;
+    background: #e6e6e6;
+}
+
+footer {
+    padding: 20px;
+    margin-top: 20px;
+    color: #ffffff;
+    background-color: #be1622;
+    text-align: center;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
